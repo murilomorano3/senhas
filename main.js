@@ -13,7 +13,7 @@ function diminuiTamanho (){
     numeroSenha.textContent = tamanhoSenha;
 }
 
-function (){
+function aumentaTamanho (){
     tamanhoSenha = tamanhoSenha+1;
     numeroSenha.textContent = tamanhoSenha;
 }
